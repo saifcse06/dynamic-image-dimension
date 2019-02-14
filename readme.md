@@ -7,3 +7,8 @@
    * Change database access .env file
    * Run the following command: `php artisan migrate`
    * Run the following command: `php artisan db:seed`
+
+ ## Features
+    * Multipul auth like (admin, customer)
+    * Image and file upload 
+    * Dynamic Image Dimension
